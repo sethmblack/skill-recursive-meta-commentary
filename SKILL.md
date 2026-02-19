@@ -3,8 +3,8 @@ name: recursive-meta-commentary
 description: Apply Bo Burnham's signature technique of recursive meta-commentary to create multiple simultaneous layers of awareness that don't resolve into simple irony or sincerity.
 license: MIT
 metadata:
-  version: 1.0.4812
   author: sethmblack
+  version: 1.0.4813
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
